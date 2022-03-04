@@ -1,7 +1,7 @@
-import "./style.css"
+import "./styles/style.css"
 import "bootstrap/dist/css/bootstrap.css"
-import "./jokeFacade"
-import jokeFacade from "./jokeFacade"
+import "./src/jokeFacade"
+import jokeFacade from "./src/jokeFacade"
 
 document.getElementById("all-content").style.display = "block"
 
